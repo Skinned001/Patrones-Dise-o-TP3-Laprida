@@ -1,1 +1,1 @@
-# Patrones-Dise-o-TP3-Laprida
+# Patrones-Diseño-TP3-Laprida
